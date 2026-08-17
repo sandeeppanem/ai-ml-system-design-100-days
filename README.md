@@ -12,6 +12,7 @@ just to memorize architectures.
 | Day | System | Status |
 | --- | --- | --- |
 | [Day 1](./day-01/) | Video Recommendation System | ✅ Complete |
+| [Day 2](./day-02/) | ETA Prediction Systems | ✅ Complete |
 
 ## Focus areas
 
