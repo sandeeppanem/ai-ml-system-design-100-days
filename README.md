@@ -13,6 +13,8 @@ just to memorize architectures.
 | --- | --- | --- |
 | [Day 1](./day-01/) | Video Recommendation System | ✅ Complete |
 | [Day 2](./day-02/) | ETA Prediction Systems | ✅ Complete |
+| [Day 3](./day-03/) | AI Customer-Support Assistant | ✅ Complete |
+| [Day 4](./day-04/) | Production-Grade RAG Pipeline | ✅ Complete |
 
 ## Focus areas
 
