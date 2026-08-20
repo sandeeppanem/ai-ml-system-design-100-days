@@ -15,6 +15,7 @@ just to memorize architectures.
 | [Day 2](./day-02/) | ETA Prediction Systems | ✅ Complete |
 | [Day 3](./day-03/) | AI Customer-Support Assistant | ✅ Complete |
 | [Day 4](./day-04/) | Production-Grade RAG Pipeline | ✅ Complete |
+| [Day 5](./day-05/) | LLM Evaluation Pipeline | ✅ Complete |
 
 ## Focus areas
 
