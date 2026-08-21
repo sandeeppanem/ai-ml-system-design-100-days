@@ -16,6 +16,7 @@ just to memorize architectures.
 | [Day 3](./day-03/) | AI Customer-Support Assistant | ✅ Complete |
 | [Day 4](./day-04/) | Production-Grade RAG Pipeline | ✅ Complete |
 | [Day 5](./day-05/) | LLM Evaluation Pipeline | ✅ Complete |
+| [Day 6](./day-06/) | Production-Grade Tool-Using Enterprise Workflow Agent | ✅ Complete |
 
 ## Focus areas
 
